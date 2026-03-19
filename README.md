@@ -1,7 +1,7 @@
 # Smart-Heat-Recovery-System-in-Coal-Mines
 
 # An IoT-based system designed to capture and reuse waste heat in coal mines to improve energy efficiency and sustainability.
-
+<pre>
 The Smart Heat Recovery System is an innovative solution designed to capture and reuse waste heat generated in coal mining environments. Coal mines produce significant thermal energy due to machinery, ventilation systems, and underground conditions. This project focuses on converting that unused heat into useful energy, improving efficiency and reducing environmental impact.
 
 # Problem Statement
@@ -25,10 +25,10 @@ Key Features:
 
 # Technologies Used
 
-IoT Sensors (Temperature, Pressure)
-Microcontrollers (Arduino / Raspberry Pi)
-Heat Exchangers
-Data Monitoring Dashboard
+IoT Sensors (Temperature, Pressure)<br>
+Microcontrollers (Arduino / Raspberry Pi)<br>
+Heat Exchangers<br>
+Data Monitoring Dashboard<br>
 Basic Machine Learning (optional for optimization)
 
 # How It Works
@@ -111,3 +111,4 @@ Conduct risk assessment before deployment
 
 ---
 Tejaswi
+</pre>
